@@ -1,0 +1,6 @@
+D:\UGM\SEMESTER 2\Pemrograman Berorientasi Objek\PBO\DbBuah\DbBuah\bin\Debug\DbBuah.dacpac
+D:\UGM\SEMESTER 2\Pemrograman Berorientasi Objek\PBO\DbBuah\DbBuah\bin\Debug\DbBuah.dll
+D:\UGM\SEMESTER 2\Pemrograman Berorientasi Objek\PBO\DbBuah\DbBuah\bin\Debug\DbBuah.pdb
+D:\UGM\SEMESTER 2\Pemrograman Berorientasi Objek\PBO\DbBuah\DbBuah\obj\Debug\DbBuah.sqlprojAssemblyReference.cache
+D:\UGM\SEMESTER 2\Pemrograman Berorientasi Objek\PBO\DbBuah\DbBuah\obj\Debug\DbBuah.dll
+D:\UGM\SEMESTER 2\Pemrograman Berorientasi Objek\PBO\DbBuah\DbBuah\obj\Debug\DbBuah.pdb
